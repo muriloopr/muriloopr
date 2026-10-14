@@ -5,11 +5,15 @@
 
 ---
 
+<img src="https://locusbucket.s3.amazonaws.com/locustool/static/locuswebsite/image/ERP-solutions.png" align="right" width="250" alt="Ilustração" />
+
 ### 💻 Sobre Mim
-- 🎓 **Formação:** Ciência da Computação (Faculdade Impacta) | Técnico em Dev. de Sistemas (ETEC)
+- 🎓 **Formação:** Bacharelado em Ciência da Computação (Faculdade Impacta) | Técnico em Dev. de Sistemas (ETEC)
 - 🎯 **Foco de Carreira:** Desenvolvimento Backend, Arquitetura de APIs REST e Bancos de Dados
 - ☁️ **Certificações:** Cloud Essentials (IOS)
 - 📬 **Contato:** [LinkedIn](https://linkedin.com/in/murilo-pereira34) | muriloap34@gmail.com
+
+<br clear="right"/>
 
 ---
 
