@@ -41,3 +41,5 @@
 
 ### 🚀 Projetos em Destaque
 - **[RXLog - Sistema de Controle de Estoque de Medicamentos](https://github.com/Imaurici0/RXLog)**: API REST em Java 17 e Spring Boot desenvolvida em equipe para gerenciamento de estoque hospitalar/farmacêutico.
+- **[Pokédex Angular + Supabase](https://github.com/muriloopr/pokedexangular)** | **[Live Demo 🔗](https://pokedexangular-phi.vercel.app)**
+  Aplicação Web reativa desenvolvida com **Angular (Standalone Components & Signals)** integrada ao **Supabase (PostgreSQL)**. Conta com navegação por rotas, filtro por tipos, cores dinâmicas e modal customizado para operações CRUD.
